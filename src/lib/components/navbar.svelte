@@ -32,9 +32,9 @@
       <a class="btn btn-ghost btn-sm rounded-btn" href="/projects">
         Portfolio
       </a>
-      <a class="btn btn-ghost btn-sm rounded-btn" href="/posts">
+      <!-- <a class="btn btn-ghost btn-sm rounded-btn" href="/posts">
         Blog
-      </a>
+      </a> -->
       <a class="btn btn-ghost btn-sm rounded-btn" href="/about">
         About
       </a>
