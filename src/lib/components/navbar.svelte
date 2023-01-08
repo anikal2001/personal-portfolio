@@ -6,7 +6,7 @@
   class="navbar mb-16 shadow-lg bg-neutral text-neutral-content sticky top-0 z-10"
 >
   <div class="flex-1 px-2 mx-2">
-    <a class="text-lg font-bold" href="/"> Portfolio </a>
+    <img src="/Logo.png" class="cursor-pointer w-1/12" alt="Logo" />
   </div>
 
   <div class="dropdown dropdown-left lg:hidden">
